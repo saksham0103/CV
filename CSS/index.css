@@ -1,0 +1,16 @@
+body
+{
+    background-color: #EFFFFD;
+}
+hr{
+    border-style:none;
+    background-color: white;/*Border is not dotted if I remove the background color*/
+    border-top-style: dotted;
+    width: 3%;
+    border-collapse: collapse;
+    border-width: 8px;
+    border-color: grey;
+}
+h1,h3,h2{
+    color: #22577E;
+}
