@@ -4,7 +4,7 @@ body
 }
 hr{
     border-style:none;
-    background-color: white;/*Border is not dotted if I remove the background color*/
+     background-color:white;/* Border is not dotted if I remove the background color */
     border-top-style: dotted;
     width: 3%;
     border-collapse: collapse;
